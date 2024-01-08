@@ -6,7 +6,12 @@
 ### Hi there 👋 I'm Chidube Steve, a software engineer, from Nigeria with an interest in blockchain development on a journey to expand my skills and make a meaningful impact in the tech world
 ----
 # 💫 About Me:
-💼 I am a dedicated software engineering student at Aptech Learning, pursuing the ADSE course (Advanced Diploma in Software Engineering), where I am acquiring comprehensive knowledge and skills to offer versatile solutions to the job market.<br><br>🔭 Currently, I'm working on **Cryptix** A full stack NFT marketplace web app, [repo](https://github.com/chidubesteve/Cryptix). I am passionate about learning and applying software engineering principles to solve real-world problems.<br><br>🤝 I'm always open to collaboration on web2 or web3 projects.<br><br>💬 Whether you're looking for assistance with frontend development or want to dive into blockchain, DeFi, or web3 technologies, feel free to reach out.<br><br>⚡ Fun fact about me: I initially aspired to be a doctor, but I've found my true calling as a software engineer. Life takes unexpected turns, and I'm embracing this incredible journey in tech with enthusiasm.<br><br><br>Let's connect, innovate, and make a difference together!🚀 :  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikechidube@gmail.com)
+💼 I am a dedicated software engineering student at [Aptech Learning](https://aptech-nigeria.com/), pursuing the ADSE course (Advanced Diploma in Software Engineering), where I am acquiring comprehensive knowledge and skills to offer versatile solutions to the job market.<br><br>🔭 Currently, I'm working on **Cinemax** A full stack AI-powered movie dicovering, recommendation and streaming web app, [repo](https://github.com/chidubesteve/Cryptix). I am passionate about learning and applying software engineering principles to solve real-world problems.<br><br>🤝 I'm always open to collaboration on web2 or web3 projects.<br><br>💬 Whether you're looking for assistance with frontend development or want to dive into blockchain, DeFi, or web3 technologies, feel free to reach out.<br><br>⚡ Fun fact about me: I initially aspired to be a doctor, but I've found my true calling as a software engineer. Life takes unexpected turns, and I'm embracing this incredible journey in tech with enthusiasm.<br><br><br>Let's connect, innovate, and make a difference together!🚀 :  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anikechidube@gmail.com)
+
+
+[![](https://visitcount.itsvg.in/api?id=chdidubesteve&icon=0&color=0)](https://visitcount.itsvg.in) 
+
+
 <br><br><br><br>
 
 
@@ -29,8 +34,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-
-[![](https://visitcount.itsvg.in/api?id=chdidubesteve&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 <!-- ![](https://komarev.com/ghpvc/?username=chidubesteve&style=flat-square) -->
 
