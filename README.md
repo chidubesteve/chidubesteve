@@ -3,7 +3,7 @@
 
 <!--- ![IMG_9890 (2)](https://github.com/chidubesteve/chidubesteve/assets/117487194/b929edd2-4c97-4b7e-884d-26d353405b68) --->
 
-### Hi there 👋 I'm Chidube Steve, a software engineer, from Nigeria with an interest in blockchain development on a journey to expand my skills and make a meaningful impact in the tech world
+### Hi there 👋 I'm Chidube Steve, a software engineer, on a journey to expand my skills and make a meaningful impact in the tech world
 ----
 # 💫 About Me:
 💼 Software Engineer with 3 years of experience in software and blockchain development. Skilled in creating responsive applications with a strong foundation in React, Next, Node.js, and Web3 tools. Passionate about leveraging technology to revolutionize user experiences.<br><br>🔭 Currently, I'm working on **[Cryptix](https://github.com/chidubesteve/Cryptix-Front-End)** Full-stack NFT marketplace.
